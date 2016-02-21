@@ -1,0 +1,6 @@
+/bower_components
+/node_modules
+/build
+/source
+dw.sublime-project
+dw.sublime-workspace

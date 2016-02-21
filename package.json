@@ -1,0 +1,38 @@
+{
+  "name": "dw",
+  "version": "1.0.0",
+  "description": "Build project",
+  "author": "FunnyROGER",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "debuga": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-ext-replace": "^0.2.0",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-svgmin": "^1.2.2",
+    "gulp-svgstore": "^5.0.5",
+    "gulp-uglify": "^1.5.1",
+    "gulp-update": "0.0.2",
+    "gulp-watch": "^4.3.5",
+    "gulp.spritesmith-multi": "^2.2.2",
+    "imagemin-pngquant": "^4.2.2",
+    "merge-stream": "^1.0.0",
+    "rimraf": "^2.3.1"
+  },
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp-bower": "0.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
